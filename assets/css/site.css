@@ -1,0 +1,72 @@
+@charset "utf-8";
+/* CSS Document */
+body {
+	color: #000000;
+	font-size: 14px;
+	font-family: Comic Sans MS, sans-serif;
+	background: #884135;
+}
+
+.content {
+	width: 730px;
+	text-align: left;
+	padding: 10px;
+	background: #f0e6ba;
+}
+
+div {
+	color: #000000;
+	font-size: 14px;
+	font-family: Comic Sans MS, sans-serif;
+}
+
+.sm {
+	font-family: Comic Sans MS;
+	san-serif;
+	font-size: 10px;
+}
+
+.title {
+	color: #a2564a;
+	font-size: 18px;
+	font-family: Comic Sans MS, sans-serif;
+	font-weight: bold;
+}
+
+.indicia {
+	color: #f0e6ba;
+	font-size: 10px;
+	font-family: Comic Sans MS, sans-serif;
+	padding-bottom: 24px;
+}
+
+.nomargin {
+	margin-top: 0px;
+	margin-bottom: 0px;
+	margin-left: 0px;
+	margin-right: 0px;
+}
+
+a {
+	color: blue;
+}
+
+	a:hover {
+		color: blue;
+	}
+
+	a:visited {
+		color: blue;
+	}
+
+input.sm_field {
+	width: 100px;
+}
+
+input.med_field {
+	width: 250px;
+}
+
+.red {
+	color: red;
+}

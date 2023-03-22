@@ -1,17 +1,17 @@
 @charset "utf-8";
 /* CSS Document */
 body {
-	color: #232323;
+	color: #0c0205;
 	font-size: 14px;
 	font-family: Comic Sans MS, sans-serif;
-	background: #5c5946;
+	background: #5d001e;
 }
 
 .content {
 	width: 730px;
 	text-align: left;
 	padding: 10px;
-	background: #8f6331;
+	background: #e3e2df;
 }
 
 div {
@@ -26,7 +26,7 @@ div {
 }
 
 .title {
-	color: #5c5946;
+	color: #9a173a;
 	font-size: 18px;
 	font-family: Comic Sans MS, sans-serif;
 	font-weight: bold;

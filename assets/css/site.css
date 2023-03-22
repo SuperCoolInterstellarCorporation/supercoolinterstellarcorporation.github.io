@@ -4,14 +4,14 @@ body {
 	color: #232323;
 	font-size: 14px;
 	font-family: Comic Sans MS, sans-serif;
-	background: #1E213d;
+	background: #5c5946;
 }
 
 .content {
 	width: 730px;
 	text-align: left;
 	padding: 10px;
-	background: #464451;
+	background: #8f6331;
 }
 
 div {
@@ -26,7 +26,7 @@ div {
 }
 
 .title {
-	color: #FFFFFF;
+	color: #5c5946;
 	font-size: 18px;
 	font-family: Comic Sans MS, sans-serif;
 	font-weight: bold;

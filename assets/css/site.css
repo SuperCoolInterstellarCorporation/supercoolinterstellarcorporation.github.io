@@ -4,14 +4,14 @@ body {
 	color: #000000;
 	font-size: 14px;
 	font-family: Comic Sans MS, sans-serif;
-	background: #5e1a29;
+	background: #1E213d;
 }
 
 .content {
 	width: 730px;
 	text-align: left;
 	padding: 10px;
-	background: #a13326;
+	background: #464451;
 }
 
 div {
@@ -26,14 +26,14 @@ div {
 }
 
 .title {
-	color: #3e6f5c;
+	color: #FFFFFF;
 	font-size: 18px;
 	font-family: Comic Sans MS, sans-serif;
 	font-weight: bold;
 }
 
 .indicia {
-	color: #f0e6ba;
+	color: #fffFFF;
 	font-size: 10px;
 	font-family: Comic Sans MS, sans-serif;
 	padding-bottom: 24px;

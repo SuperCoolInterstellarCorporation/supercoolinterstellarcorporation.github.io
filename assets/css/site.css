@@ -21,8 +21,7 @@ div {
 }
 
 .sm {
-	font-family: Comic Sans MS;
-	san-serif;
+	font-family: Comic Sans MS, san-serif;
 	font-size: 10px;
 }
 

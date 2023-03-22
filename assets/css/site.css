@@ -1,7 +1,7 @@
 @charset "utf-8";
 /* CSS Document */
 body {
-	color: #000000;
+	color: #232323;
 	font-size: 14px;
 	font-family: Comic Sans MS, sans-serif;
 	background: #1E213d;
@@ -15,7 +15,7 @@ body {
 }
 
 div {
-	color: #000000;
+	color: #232323;
 	font-size: 14px;
 	font-family: Comic Sans MS, sans-serif;
 }

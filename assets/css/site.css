@@ -46,6 +46,10 @@ div {
 	margin-right: 0px;
 }
 
+margin {
+	margin-bottom: 5px;
+}
+
 a {
 	color: blue;
 }

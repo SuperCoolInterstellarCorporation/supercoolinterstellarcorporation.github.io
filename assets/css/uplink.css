@@ -1,0 +1,73 @@
+body {
+	color: #e3e2df;
+	font-size: 14px;
+	font-family: Times New Roman, Times, serif;
+	background: #5d001e;
+}
+
+.content {
+	width: 730px;
+	text-align: left;
+	padding: 10px;
+	background: #050505;
+}
+
+div {
+	color: #e3e2df;
+	font-size: 14px;
+	font-family: Times New Roman, Times, serif;
+}
+
+.sm {
+	font-family: Times New Roman, Times, serif;
+	font-size: 10px;
+}
+
+.title {
+	color: #e3e2df;
+	font-size: 18px;
+	font-family: Times New Roman, Times, serif;
+	font-weight: bold;
+}
+
+.indicia {
+	color: #e3e2df;
+	font-size: 10px;
+	font-family: Times New Roman, Times, serif;
+	padding-bottom: 24px;
+}
+
+.nomargin {
+	margin-top: 0px;
+	margin-bottom: 0px;
+	margin-left: 0px;
+	margin-right: 0px;
+}
+
+margin {
+	margin-bottom: 5px;
+}
+
+a {
+	color: rgb(198, 21, 59);
+}
+
+	a:hover {
+		color: blue;
+	}
+
+	a:visited {
+		color: blue;
+	}
+
+input.sm_field {
+	width: 100px;
+}
+
+input.med_field {
+	width: 250px;
+}
+
+.red {
+	color: red;
+}
